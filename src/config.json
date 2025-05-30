@@ -1,0 +1,11 @@
+{
+    "news_sources": [
+        {"name": "RBC", "url": "https://www.rbc.ru/economics/", "type": "rbc"},
+        {"name": "RIA", "url": "https://sn.ria.ru", "type": "ria"}
+    ],
+    "llm_api": {
+        "base_url": "https://api.llm7.io/v1",
+        "api_key": "unused",
+        "model": "gpt-4.1-nano"
+    }
+}
